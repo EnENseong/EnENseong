@@ -23,12 +23,11 @@
           <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white">
           </div>
     </div>
-    <div align="center"> 
-  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=EnENseong&show_icons=true&theme=radical" />
-
+<div align="center">
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🐍 GitHub Activity </h2>
+  <img src="https://github.com/EnENseong/EnENseong/raw/output/github-contribution-grid-snake.svg" />
 </div>
+
 
 </div>
     
