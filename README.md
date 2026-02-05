@@ -64,6 +64,7 @@
   <h2>🏆 GitHub Stats</h2>
 
   <img src="https://img.shields.io/github/followers/EnENseong?style=for-the-badge&label=Followers&logo=github" />
+    <img src="https://img.shields.io/github/stars/EnENseong?style=for-the-badge&label=Stars&logo=github" />
 
   <br/><br/>
 
