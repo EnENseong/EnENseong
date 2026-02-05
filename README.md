@@ -63,7 +63,7 @@
   <!-- Stats -->
   <h2>🏆 GitHub Stats</h2>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=EnENseong&theme=darkhub&no-frame=true&margin-w=10&cache_seconds=86400" />
+  <img src="https://img.shields.io/github/followers/EnENseong?style=for-the-badge&label=Followers&logo=github" />
 
   <br/><br/>
 
