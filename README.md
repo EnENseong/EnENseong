@@ -50,7 +50,7 @@
         <a href="https://github.com/TeamGooood/STABIO">GitHub Repository</a>
       </td>
       <td align="left" width="50%">
-        <b>Team SUDO ALL Project</b><br/>
+        <b>Na-um</b><br/>
         외국인들의 한국 의료체계 적응을 위한<br/>
         증상에 따른 주변 병원 추천 및 ai 차트 생성, 의약품 정보 제공 서비스<br/><br/>
         <a href="https://github.com/team-sudo-all/project-client">GitHub Repository</a>
