@@ -44,13 +44,13 @@
   <table>
     <tr>
       <td align="left" width="50%">
-        <b>STABIO</b><br/>
+        <b>STABIO</b><br/><br/>
         사용자가 생각하는 중요도에 따라<br/>
         블록체인 안정성 점수를 매겨 분석에 도움을 주는 웹 서비스<br/><br/>
         <a href="https://github.com/TeamGooood/STABIO">GitHub Repository</a>
       </td>
       <td align="left" width="50%">
-        <b>Na-um</b><br/>
+        <b>Na-um</b><br/><br/>
         외국인들의 한국 의료체계 적응을 위한<br/>
         증상에 따른 주변 병원 추천 및 ai 차트 생성, 의약품 정보 제공 서비스<br/><br/>
         <a href="https://github.com/team-sudo-all/project-client">GitHub Repository</a>
